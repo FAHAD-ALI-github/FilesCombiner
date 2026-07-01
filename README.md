@@ -16,7 +16,7 @@ A lightweight and efficient Python-based GUI utility designed to merge multiple 
 
 ## 🛠️ Tech Stack
 
-* **Language:** Python 3.x
+* **Language:** Python 3.12
 * **Libraries:** * `Tkinter` (Standard GUI Library)
 * `os` (File path manipulation)
 
