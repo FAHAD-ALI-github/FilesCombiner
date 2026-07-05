@@ -51,7 +51,7 @@ python main.py
 
 ---
 
-## 👤 Author
+## 👤 Developer
 
 **Fahad Ali** GitHub: [@FAHAD-ALI-github](https://github.com/FAHAD-ALI-github)
 
